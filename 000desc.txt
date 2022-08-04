@@ -1,0 +1,10 @@
+[JAPANESE]
+TITLE=Actエクストラ - LM61 センササンプル
+DESC=Tiのアナログ温度センサ LM61 (B/C) を使って気温を測定するサンプルです。
+Act_samplesのPAL_AMBとしてデータを送信します。
+URL=https://github.com/monowireless/ActEx_Sns_LM61
+[ENGLISH]
+TITLE=Act Extra - LM61 Sensing Sample
+DESC=Act sample for Ti LM61 (B/C) analogue temperature sensors.
+Send data as PAL_AMB in Act_samples.
+URL=https://github.com/monowireless/ActEx_Sns_LM61
